@@ -1,7 +1,5 @@
 # Eye Detection Using Python & OpenCV
 
-Assignment 3
-
 ## Objective
 
 Develop a computer vision application using Python and OpenCV to automatically detect human eyes in an uploaded image using a pre-trained Haar Cascade classifier.
